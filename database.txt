@@ -1,0 +1,9 @@
+fiersabesari_2012_1,2012,fiersa besari,media kita,jejak langkah
+PramoedyaAnantatoer_2001_1,2001,Pramoedya Anantatoer,Gramedia,Bumi Manusia
+purcell_2009_1,2009,purcell,wiley,calculus
+vicky_2019_1,2019,Vicky Ardiansyah,gramedia,belajar html
+vicky_2019_2,2019,Vicky Ardiansyah,gramedia,belajar css
+vicky_2021_1,2021,Vicky Ardiansyah,gramedia,belajar Java
+vicky_2022_1,2022,vicky,kortus,belajar aljabar
+vicky_2022_4,2022,vicky,media kita,belajar cpp
+cacamarica_2022_2,2022,caca marica,Medika Sari,lima langkah
